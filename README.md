@@ -1,5 +1,13 @@
 # FLIP VARIABLE WITHOUT THIRD VARIABLE
 
+## How to run test
+
+In your directory, open terminal and open
+
+`php  -S localhost:8000 -t test`
+
+Open in your browser `http://localhost:8000`
+
 ## How to use
 
 You can use like that:
@@ -18,7 +26,3 @@ You can use like that:
 	echo $d; // Output ['1', '3']
 ?>
 ```
-
-## How to run test
-
-Just open `index.php` in `test` folder.
